@@ -1,0 +1,8 @@
+{
+  "buildCommand": "node gerar-config.js",
+  "outputDirectory": ".",
+  "headers": [
+    { "source": "/config.js", "headers": [{ "key": "Cache-Control", "value": "no-store" }] },
+    { "source": "/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }, { "key": "X-Frame-Options", "value": "SAMEORIGIN" }] }
+  ]
+}
