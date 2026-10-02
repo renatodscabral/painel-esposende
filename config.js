@@ -5,7 +5,8 @@
    Na Vercel este arquivo é gerado a partir das variáveis de ambiente (gerar-config.js).
    ===================================================================== */
 window.PAINEL_CONFIG = {
-  SUPABASE_URL: '',                    // ex.: 'https://abcdefghijklmnop.supabase.co'
-  SUPABASE_ANON_KEY: '',               // chave pública: "anon public" ou "Publishable key" (sb_publishable_…). NUNCA a service_role/secret.
-  LOGIN_DOMINIO: 'esposende.com.br',   // domínio técnico dos logins (CPF@domínio). Nenhum e-mail é enviado.
+  window.PAINEL_CONFIG = {
+    SUPABASE_URL: 'https://zbgtprazpydqekwtomrj.supabase.co',
+    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpiZ3R3Y21mNmNoMWtjV3JkM3JvbXJqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTA5MTEyNjksImV4cCI6MjAyNjY4NzI2OX0.3mQ1-9ihgGqpS0wQdFZaCi51dNrSPr5kp6njHQxMKac',
+    LOGIN_DOMINIO: 'esposende.com.br'
 };
