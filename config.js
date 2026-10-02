@@ -6,6 +6,6 @@
    ===================================================================== */
 window.PAINEL_CONFIG = {
     SUPABASE_URL: 'https://zbgtprazpydqekwtomrj.supabase.co',
-    SSUPABASE_PUBLISHABLE_KEY: 'sb_publishable_N07nDfPj8oKL_8NI2VrbkQ_o6rDcgBo',
+    SUPABASE_PUBLISHABLE_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpiZ3RwcmF6cHlkcWVrd3RvbXJqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA5MTEyNjksImV4cCI6MjEwNjQ4NzI2OX0.3mQl-9ihgGqpS0wQdFZaCi51dNrSPr5kp6njHQxMKac',
     LOGIN_DOMINIO: 'esposende.com.br'
 };
